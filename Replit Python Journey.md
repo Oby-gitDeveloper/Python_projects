@@ -13,3 +13,8 @@ I just built my first interactive code which takes inputs from the user! Day 2 o
 I just built the ultimate wacky recipe maker! Day 3 of #Replit100DaysOfCode #100Days OfCode. Join me on @Replit https://join.replit.com/python
 
 ![Replit 3](https://user-images.githubusercontent.com/69041949/206308666-03f93d6f-347b-43f4-882a-60e4c341db9a.jpg)
+
+
+Feel like a proper storyteller with the custom storybook that I coded up 📖 ! Day 4 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+
+![Replit 4](https://user-images.githubusercontent.com/69041949/206316302-a7594cc3-fa40-4b26-b97f-3e371a4bfe40.jpg)
