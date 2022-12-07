@@ -8,3 +8,8 @@ Hello to the world of coding and my very first project! Day 1 of #Replit100DaysO
 I just built my first interactive code which takes inputs from the user! Day 2 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
 
 ![Replit 2](https://user-images.githubusercontent.com/69041949/205520381-aa1c4eaa-cdbc-4cae-b586-42e218c1c131.jpg)
+
+
+I just built the ultimate wacky recipe maker! Day 3 of #Replit100DaysOfCode #100Days OfCode. Join me on @Replit https://join.replit.com/python
+
+![Replit 3](https://user-images.githubusercontent.com/69041949/206308666-03f93d6f-347b-43f4-882a-60e4c341db9a.jpg)
