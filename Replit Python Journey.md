@@ -18,3 +18,8 @@ I just built the ultimate wacky recipe maker! Day 3 of #Replit100DaysOfCode #100
 Feel like a proper storyteller with the custom storybook that I coded up 📖 ! Day 4 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
 
 ![Replit 4](https://user-images.githubusercontent.com/69041949/206316302-a7594cc3-fa40-4b26-b97f-3e371a4bfe40.jpg)
+
+
+Built my very first Akinator 🧞‍♂️ style game with 'if' statements! Day 5 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+
+![Replit 5](https://user-images.githubusercontent.com/69041949/207476937-18c1ac27-25f8-4d14-a059-23e191ee5346.jpg)
