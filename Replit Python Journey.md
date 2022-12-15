@@ -23,3 +23,8 @@ Feel like a proper storyteller with the custom storybook that I coded up 📖 ! 
 Built my very first Akinator 🧞‍♂️ style game with 'if' statements! Day 5 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
 
 ![Replit 5](https://user-images.githubusercontent.com/69041949/207476937-18c1ac27-25f8-4d14-a059-23e191ee5346.jpg)
+
+
+With some nifty nesting 🐣 skills I built a game to test if you are a true fan of a TV show 📺 ! Day 7 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+
+![Replit 6](https://user-images.githubusercontent.com/69041949/207989643-abb382ff-ade1-4b58-8dfd-ae4ce1de4620.jpg)
